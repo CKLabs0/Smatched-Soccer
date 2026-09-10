@@ -13,6 +13,9 @@ We use **Google AdMob** to display advertisements in the game. Google may use yo
 ## 3. Information Sharing
 We do not share any personal information with third parties except as required by law or for essential game services provided by third-party SDKs (like AdMob).
 
-
 ## 4. Children's Privacy 
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers.
+
+## Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+**Email:** cklabs0@gmail.com
