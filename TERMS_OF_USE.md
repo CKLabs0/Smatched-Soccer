@@ -15,3 +15,6 @@ The developer is not responsible for any progress or data loss that may occur du
 
 ## 4. Updates to Terms
 We reserve the right to update these terms at any time.
+
+## 5. Disclaimer 
+The game is provided "as is" without any warranties of any kind. The developer does not guarantee that the game will always be available or free of errors.
