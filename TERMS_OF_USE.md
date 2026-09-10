@@ -18,3 +18,7 @@ We reserve the right to update these terms at any time.
 
 ## 5. Disclaimer 
 The game is provided "as is" without any warranties of any kind. The developer does not guarantee that the game will always be available or free of errors.
+
+## Contact Us
+If you have any questions or suggestions about our Terms of Use, do not hesitate to contact us at:
+**Email:** cklabs0@gmail.com
